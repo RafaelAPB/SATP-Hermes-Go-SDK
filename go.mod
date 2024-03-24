@@ -1,4 +1,4 @@
-module github.com/RafaelAPB/SATP-Hermes-Go-SDK
+module github.com/RafaelAPB/satp-go-sdk
 
 go 1.18
 
